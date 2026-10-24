@@ -1,0 +1,10 @@
+{
+  "name": "Yapay Zekânın Sağ Ucu",
+  "short_name": "AI Sağ Uç",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbfafc",
+  "theme_color": "#8d7bb8",
+  "description": "Kullanıcıdan AI Orchestrator’a yaşayan Türkçe yapay zekâ ders kitabı."
+}
